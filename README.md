@@ -1,34 +1,51 @@
+
 # 🍕 Pizza Sales SQL Analysis Project
 
 ## 📌 Project Overview
 
-This project analyzes pizza sales data using SQL to find useful business insights.
+This project analyzes pizza sales data using SQL to uncover business insights such as revenue trends, customer preferences, and top-performing products.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 * MySQL
 * SQL
-* Canva
+* Canva (for presentation)
 
-## 📊 Dataset
+## 📊 Database Schema
+
+The dataset includes four tables:
 
 * orders
 * order_details
 * pizzas
 * pizza_types
 
-## 🔍 Analysis Performed
+## 🔍 Key Analysis Performed
 
-* Total number of orders
-* Total revenue
-* Most popular pizza size
-* Top 5 ordered pizzas
-* Category-wise sales
+* Total number of orders placed
+* Total revenue generated
+* Highest priced pizza
+* Most common pizza size ordered
+* Top 5 most ordered pizza types
+* Category-wise quantity analysis
 
-## 🎯 Conclusion
+## 📂 Project Files
 
-This project shows my ability to use SQL for data analysis and real-world problem solving.
+* `queries.sql` → Contains all SQL queries
+* `PIZZA_SALES_ANALYSIS_PDF` → Project presentation
+
+## 🎯 Key Insights
+
+* Identified top-selling pizzas
+* Analyzed revenue contribution
+* Found customer ordering patterns
+
+## 🚀 What I Learned
+
+* Writing SQL queries using JOIN, GROUP BY, and aggregation
+* Understanding relational database schema
+* Converting data into business insights
 
 ---
 
-Created by: Mutyala Nivedh
+👨‍💻 Created by: Mutyala Nivedh
